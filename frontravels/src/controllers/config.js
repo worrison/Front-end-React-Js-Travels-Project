@@ -1,2 +1,2 @@
-const API = 'http://127.0.0.1:3000/Api/travel';
+const API = 'http://localhost:3000/Api/travel'; 
 export default API;
