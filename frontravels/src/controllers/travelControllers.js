@@ -1,4 +1,3 @@
-import React, { Component } from 'react'
 import Api from './config.js';
 import axios from 'axios';
 
